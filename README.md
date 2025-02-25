@@ -1,2 +1,3 @@
 # CircleCI Tag 
-[![CircleCI](https://circleci.com/gh/NoahSpina/SSW567_HW.svg?style=svg)](https://circleci.com/gh/NoahSpina/SSW567_HW)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/EZUNyBCRZsHF5EiaaJvZCg/B2FvbuWVgKat7cQHe2nXWR/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/EZUNyBCRZsHF5EiaaJvZCg/B2FvbuWVgKat7cQHe2nXWR/tree/main)
